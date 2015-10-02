@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asd", "asd\asd.csproj", "{CA744E74-E742-46ED-9DE2-BD48C00A583F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileAppProject", "..\MobileAppProject\MobileAppProject.csproj", "{76A57833-860C-4A05-9F31-E8E989DE9B9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CA744E74-E742-46ED-9DE2-BD48C00A583F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA744E74-E742-46ED-9DE2-BD48C00A583F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA744E74-E742-46ED-9DE2-BD48C00A583F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA744E74-E742-46ED-9DE2-BD48C00A583F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A57833-860C-4A05-9F31-E8E989DE9B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A57833-860C-4A05-9F31-E8E989DE9B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A57833-860C-4A05-9F31-E8E989DE9B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A57833-860C-4A05-9F31-E8E989DE9B9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
