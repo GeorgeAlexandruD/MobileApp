@@ -45,5 +45,9 @@ namespace MobileAppProject
         {
             return doctorIDs[2];
         }
+        public void nothing()
+        {
+
+        }
     }
 }
