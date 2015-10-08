@@ -29,6 +29,7 @@ namespace MobileAppProject
 
             Action a = () => textBox1.Text =   Program.getDrId(); ;
             BeginInvoke(a);
+            jnjjjjjjjjjjjjjnj;
         }
     }
 }
