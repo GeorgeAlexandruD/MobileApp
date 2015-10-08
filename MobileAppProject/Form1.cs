@@ -17,6 +17,7 @@ namespace MobileAppProject
         {
             InitializeComponent();
             textBox1.Text = "look here";
+            Console.WriteLine("!");
         }
 
         private void button1_Click(object sender, EventArgs e)
