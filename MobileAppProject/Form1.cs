@@ -20,6 +20,7 @@ namespace MobileAppProject
         {
             InitializeComponent();
             textBox1.Text = "look here";
+            Console.WriteLine("!");
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -31,6 +32,7 @@ namespace MobileAppProject
 
             Action a = () => textBox1.Text =   Program.getDrId(); 
             BeginInvoke(a);
+            jnjjjjjjjjjjjjjnj;
         }
          void addInfo()
         {
